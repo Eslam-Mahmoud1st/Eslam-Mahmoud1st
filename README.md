@@ -2,110 +2,70 @@
 
 ### AI Engineer & Front-End Developer
 
-I build practical software projects using Python, Artificial Intelligence, automation, and modern web technologies.
+I build practical projects with Python and modern web technologies.
 
-My current focus is developing useful systems, improving my problem-solving skills, and turning technical ideas into working applications.
+Currently focused on improving my skills in Artificial Intelligence, Machine Learning, and software development.
 
 ---
 
 ## About Me
 
-- Interested in AI Engineering, Machine Learning, and software development.
-- Building practical Python and AI-based applications.
-- Working with automation, APIs, data processing, and desktop tools.
-- Learning how to design and develop complete software systems.
-- Based in Egypt.
+- Interested in Artificial Intelligence and Machine Learning.
+- Building practical Python projects.
+- Exploring automation, APIs, and backend development.
+- Learning through real projects and continuous practice.
 
 ---
 
-## Technical Skills
+## Skills
 
-### Programming Languages
+**Programming:** Python, JavaScript
 
-Python, JavaScript, HTML, CSS
-
-### Artificial Intelligence & Data
-
-Machine Learning, Scikit-learn, Pandas, NumPy, Data Processing
-
-### Front-End Development
-
-React, Bootstrap, Responsive Web Design
-
-### Backend Development
-
-Flask, FastAPI, REST APIs
-
-### Databases & Tools
-
-SQLite, Git, GitHub, VS Code
+**Frontend:** HTML, CSS, React, Bootstrap
 
 ---
 
-## Featured Projects
-
-### SENTINEL-X
-
-A Network Intrusion Detection System that uses Machine Learning to identify suspicious network traffic.
-
-**Technologies:** Python, Machine Learning, Flask
+## Projects
 
 ### Audio-Lecture-Transcriber
 
-A local Python CLI utility that transcribes audio and video lectures into text and exports structured notes to Word documents.
-
-**Technologies:** Python, Audio Processing, CLI, Word Documents
+A Python CLI tool that transcribes audio and video lectures into text and exports notes to Word documents.
 
 ### Terminal-Traffic-Monitor
 
-A real-time command-line tool for monitoring system network traffic, tracking per-process bandwidth usage, and storing history in SQLite.
+A real-time CLI tool for monitoring network traffic and tracking bandwidth usage.
 
-**Technologies:** Python, Networking, SQLite, CLI
+### Smart-File-Deduplicator
 
-### Emotion-Detector
+A Python tool that detects duplicate files using content hashing.
 
-An application that detects emotions from text using Natural Language Processing.
+### Tech-Jobs-Scraper
 
-**Technologies:** Python, NLP, Flask
+A Python tool that collects tech job opportunities and exports them to CSV.
+
+### Smart-File-Organizer
+
+A Python automation tool that organizes files into folders based on file extensions.
 
 ### Tic-Tac-Toe-AI
 
-A Tic-Tac-Toe game with an AI agent and a graphical interface built using Tkinter.
+A Tic-Tac-Toe game with an AI agent built using Python and Tkinter.
 
-**Technologies:** Python, Tkinter, AI
+### Emotion-Detector
 
-### Spam-Ham-Smishing Detector
-
-A text classification project for detecting spam, ham, and smishing messages.
-
-**Technologies:** Python, Machine Learning, NLP
+A text-based emotion detection project built with Python.
 
 ---
 
-## Other Projects
+## Current Focus
 
-- Tech Jobs Scraper
-- Smart File Deduplicator
-- Smart File Organizer
-
----
-
-## Currently Learning
-
-- Machine Learning
-- Deep Learning
-- AI Engineering
-- Backend Development
-- Software Architecture
-- Data Structures and Algorithms
+- Artificial Intelligence and Machine Learning.
+- Building practical AI projects with Python.
+- Front-End Development using HTML, CSS, JavaScript, and React.
+- Combining AI with modern web applications.
 
 ---
 
 ## Contact
 
-- LinkedIn: [Islam Mahmoud](https://www.linkedin.com/in/eslam-mahmoud-b1355a343)
-- GitHub: [Eslam-Mahmoud1st](https://github.com/Eslam-Mahmoud1st)
-
----
-
-Thanks for visiting my profile.
+[LinkedIn](https://www.linkedin.com/in/eslam-mahmoud-b1355a343)
