@@ -23,4 +23,3 @@ I build practical projects using Python, Machine Learning, and modern web techno
 ## Connect with Me
 
 - **LinkedIn:** [Eslam Mahmoud](https://www.linkedin.com/in/eslam-mahmoud-b1355a343)
--
