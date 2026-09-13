@@ -1,4 +1,4 @@
-# Hi, I'm Islam Mahmoud 
+# Hi, I'm Eslam Mahmoud 
 
 ### AI Engineer & Front-End Developer
 
@@ -22,5 +22,5 @@ I build practical projects using Python, Machine Learning, and modern web techno
 
 ## Connect with Me
 
-- **LinkedIn:** [Islam Mahmoud](https://www.linkedin.com/in/eslam-mahmoud-b1355a343)
+- **LinkedIn:** [Eslam Mahmoud](https://www.linkedin.com/in/eslam-mahmoud-b1355a343)
 -
