@@ -1,71 +1,26 @@
-# Hi, I'm Eslam Mahmoud
+# Hi, I'm Islam Mahmoud 
 
 ### AI Engineer & Front-End Developer
 
-I build practical projects with Python and modern web technologies.
-
-Currently focused on improving my skills in Artificial Intelligence, Machine Learning, and software development.
+I build practical projects using Python, Machine Learning, and modern web technologies like React. Focused on creating intelligent applications and clean user interfaces.
 
 ---
 
-## About Me
+## Tech Stack & Skills
 
-- Interested in Artificial Intelligence and Machine Learning.
-- Building practical Python projects.
-- Exploring automation, APIs, and backend development.
-- Learning through real projects and continuous practice.
-
----
-
-## Skills
-
-**Programming:** Python, JavaScript
-
-**Frontend:** HTML, CSS, React, Bootstrap
-
----
-
-## Projects
-
-### Audio-Lecture-Transcriber
-
-A Python CLI tool that transcribes audio and video lectures into text and exports notes to Word documents.
-
-### Terminal-Traffic-Monitor
-
-A real-time CLI tool for monitoring network traffic and tracking bandwidth usage.
-
-### Smart-File-Deduplicator
-
-A Python tool that detects duplicate files using content hashing.
-
-### Tech-Jobs-Scraper
-
-A Python tool that collects tech job opportunities and exports them to CSV.
-
-### Smart-File-Organizer
-
-A Python automation tool that organizes files into folders based on file extensions.
-
-### Tic-Tac-Toe-AI
-
-A Tic-Tac-Toe game with an AI agent built using Python and Tkinter.
-
-### Emotion-Detector
-
-A text-based emotion detection project built with Python.
-
+- **Languages:** Python, JavaScript
+- **Front-End:** React, HTML5, CSS3, Bootstrap
 ---
 
 ## Current Focus
 
-- Artificial Intelligence and Machine Learning.
-- Building practical AI projects with Python.
-- Front-End Development using HTML, CSS, JavaScript, and React.
-- Combining AI with modern web applications.
+- Building data-driven AI solutions with Python.
+- Developing interactive, responsive web applications with React.
+- Integrating Machine Learning models into web applications.
 
 ---
 
-## Contact
+## Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/eslam-mahmoud-b1355a343)
+- **LinkedIn:** [Islam Mahmoud](https://www.linkedin.com/in/eslam-mahmoud-b1355a343)
+-
